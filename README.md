@@ -106,7 +106,7 @@ For installation instructions, refer to the **[Installation Guide](https://githu
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1C7sB-fylm3l1kzu4WGZgoPv-IDjBU5ys/view?usp=sharing">
-    <img src="https://github.com/your-username/your-repo/blob/main/thumbnail.png?raw=true" alt="Watch the Demo Video" width="75%">
+    <img src="https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter/blob/main/thumbnail.png" alt="Watch the Demo Video" width="75%">
   </a>
 </p>
 
