@@ -101,17 +101,21 @@ For installation instructions, refer to the **[Installation Guide](https://githu
 
 ## 🎥 Application Demo  
 
-📌 **Curious to see how I.HEAR.YOU works? Watch the demo video by clicking the thumbnail below!**  
-⚠️ **If the video does not play, you can download it from Google Drive or from the video file provided in the repository.**  
-
 <p align="center">
+  📌 <strong>Curious to see how I.HEAR.YOU works? Watch the demo video by clicking the image below!</strong><br><br>
   <a href="https://drive.google.com/file/d/1C7sB-fylm3l1kzu4WGZgoPv-IDjBU5ys/view?usp=sharing">
     <img src="https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter/blob/main/thumbnail.png" alt="Watch the Demo Video" width="75%">
   </a>
 </p>
 
+<p align="center">
+  ⚠️ <strong>If the video doesn't play, you can download it from Google Drive or from the video file provided in the repository.</strong>
+</p>
+
+--- 
+
 ### 🎬 **What’s in the Demo?**  
-🚀 **This demo showcases the full functionality of I.HEAR.YOU, including:**  
+**This demo showcases the full functionality of I.HEAR.YOU, including:**  
 
 1️⃣ **Exploring the About Page**  
    - A quick overview of the app’s purpose and features before jumping into action.  
