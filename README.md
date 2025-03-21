@@ -99,9 +99,9 @@ For installation instructions, refer to the **[Installation Guide](INSERT_LINK_T
 
 ---
 
-## 📽️ Application Demo 
+## 🎥 Application Demo  
 
-
+[![Watch the Demo](https://drive.google.com/thumbnail?id=1C7sB-fylm3l1kzu4WGZgoPv-IDjBU5ys)](https://drive.google.com/file/d/1C7sB-fylm3l1kzu4WGZgoPv-IDjBU5ys/view?usp=sharing)
 
 ---
 
