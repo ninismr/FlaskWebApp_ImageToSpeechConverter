@@ -28,30 +28,30 @@ This project combines **Optical Character Recognition (OCR)** with **Text-to-Spe
 Whether you need to **read a foreign sign, assist someone with a visual impairment, or simply want to listen to text instead of reading**, this application offers an **efficient and accessible** solution. Built with **Flask, Tesseract OCR, gTTS, googletrans, and OpenCV**, it delivers a **lightweight yet powerful tool** for real-world use.    
 
 ### 🔍 **How It Works**  
-1️⃣ **Users upload an image** (JPG, JPEG, PNG) containing text 
-2️⃣ The system **extracts the text** from the image uploaded using **Tesseract OCR**  
-3️⃣ The extracted text is **converted into speech in a human-like voice** using **gTTS (Google Text-to-Speech)**  
-4️⃣ Users can **translate the extracted text** into another language  
-5️⃣ The translated text is also **converted into speech**, played with the correct accent, and can be **downloaded** as an audio file  
+1️⃣ **Users upload an image** (JPG, JPEG, PNG) containing text  
+2️⃣ **The system extracts the text** from the image using **Tesseract OCR**  
+3️⃣ **The extracted text is converted into speech** in a **human-like voice** using **gTTS (Google Text-to-Speech)**  
+4️⃣ **Users can translate the extracted text** into another language  
+5️⃣ **The translated text is also converted into speech**, played with the **correct accent**, and can be **downloaded as an audio file**  
+
   
 ### 🎯 **This Application is Useful For:**  
 👉 **Visually impaired users** who need text read aloud  
-👉 **Multilingual users** who want to **translate text and hear it in another language**  
-👉 **Language learners** who want to hear text in different languages and practice pronunciation
-👉 **Digital content consumers** who prefer listening over reading
+👉 **Multilingual users** who want to translate text and hear it in another language  
+👉 **Language learners** who want to hear text in different languages and practice pronunciation  
+👉 **Digital content consumers** who prefer listening over reading  
 
 ---
 
 ## 🌟 Features  
-
-✔️ **Upload an image (JPG, JPEG, PNG)** and extract text using OCR  
+✔️ **Upload an image** (JPG, JPEG, PNG) and extract text using OCR  
 ✔️ **Convert extracted text to speech** in the detected language  
 ✔️ **Translate the extracted text** into multiple languages  
 ✔️ **Convert translated text into speech**  
-✔️ **Autoplay text-to-speech audio** after processing
-✔️ **Download the translated speech as an audio file** for offline use   
-✔️ **Supports multiple languages** for both text recognition and speech output 
-✔️ **User-friendly and lightweight web interface** for smooth interaction and fast processing
+✔️ **Autoplay text-to-speech audio** after processing  
+✔️ **Download the translated speech** as an audio file for offline use  
+✔️ **Supports multiple languages** for both text recognition and speech output  
+✔️ **User-friendly and lightweight web interface** for smooth interaction and fast processing  
 
 ---
 
@@ -110,13 +110,13 @@ For installation instructions, refer to the **[Installation Guide](INSERT_LINK_T
 
 💡 **Having trouble? Try these quick tips!**  
 
-- 🔹 **Image not uploading?** → Make sure it's a **JPG, JPEG, or PNG** file.  
-- 🔹 **Text not detected?** → Use a **clear, high-quality image** with readable text.  
-- 🔹 **OCR result not accurate?** → Printed text works best. Try improving **contrast and brightness**.  
-- 🔹 **Translation not showing?** → Double-check the **selected language** and retry.  
-- 🔹 **No sound?** → Turn up the **volume** and check browser **audio settings**.  
-- 🔹 **Audio file not playing?** → Ensure it’s an **audio file** and try another media player.  
-- 🔹 **App not running?** → Install dependencies with `pip install -r requirements.txt` and restart.  
+🔹 **Image not uploading?** → Make sure it's a **JPG, JPEG, or PNG** file.  
+🔹 **Text not detected?** → Use a **clear, high-quality image** with readable text.  
+🔹 **OCR result not accurate?** → Printed text works best. Try improving **contrast and brightness**.  
+🔹 **Translation not showing?** → Double-check the **selected language** and retry.  
+🔹 **No sound?** → Turn up the **volume** and check browser **audio settings**.  
+🔹 **Audio file not playing?** → Ensure it’s an **audio file** and try another media player.  
+🔹 **App not running?** → Install dependencies with `pip install -r requirements.txt` and restart.  
 
 ✨ **Still need help?** Check out the full troubleshoot documentation [here](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter).  
 
