@@ -2,8 +2,6 @@
   <img src="ihearyou.png" alt="I.HEAR.YOU Logo" width="200">
 </p>
 
-<h1 align="center">I.HEAR.YOU</h1>
-
 <p align="center">
   <strong>A Web-Based Image-To-Speech Converter Application</strong><br>
   <em>Extracting and Converting Image Text into Speech Using Optical Character Recognition and Speech Synthesis with Translation Support</em>
