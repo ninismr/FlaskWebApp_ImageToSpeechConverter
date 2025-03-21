@@ -25,7 +25,7 @@ This project combines **Optical Character Recognition (OCR)** with **Text-to-Spe
 
 Whether you need to **read a foreign sign, assist someone with a visual impairment, or simply want to listen to text instead of reading**, this application offers an **efficient and accessible** solution. Built with **Flask, Tesseract OCR, gTTS, googletrans, and OpenCV**, it delivers a **lightweight yet powerful tool** for real-world use.    
 
-### 🔍 **How It Works**  
+### 🔍 **How It Works:**  
 1️⃣ **Users upload an image** (JPG, JPEG, PNG) containing text  
 2️⃣ **The system extracts the text** from the image using **Tesseract OCR**  
 3️⃣ **The extracted text is converted into speech** in a **human-like voice** using **gTTS (Google Text-to-Speech)**  
