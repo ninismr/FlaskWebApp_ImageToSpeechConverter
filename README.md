@@ -121,11 +121,11 @@ For installation instructions, refer to the **[Installation Guide](https://githu
    - The demo tests the app’s OCR accuracy by **uploading five different images** under different conditions.
 
 3️⃣ **OCR Accuracy Across Various Image Types**  
-  ✅ **Book Page (Korean text)** – Accurately extracts and reads aloud the **exact** text from a book page in Korean, then translates it into **Japanese** and autoplay the translated audio.  
-  ✅ **Handwritten (English Text)** – Successfully extracts handwritten text and auto-reads it, then translates it into **German** and autoplay the translated audio.  
-  ✅ **Low-Light Image (Arabic text)** – Accurately extracts Arabic text **even from a very dark image** and reads it aloud in Arabic, then translates it into **French** and autoplay the translated audio.  
-  ✅ **Street Sign (English text)** – Successfully recognizes and extracts text from a **street sign**, then translates it to **Indonesian** and autoplay the translated audio.  
-  ✅ **Newspaper Page (English structured layout text)** – Successfully recognizes both **left and right columns** and extracts text in the correct reading order.  
+   - **Book Page (Korean text)** – Accurately extracts and reads aloud the **exact** text from a book page in Korean, then translates it into **Japanese** and autoplays the translated audio. ✅ 
+   - **Handwritten (English Text)** – Successfully extracts handwritten text and auto-reads it, then translates it into **German** and autoplays the translated audio. ✅ 
+   - **Low-Light Image (Arabic text)** – Accurately extracts Arabic text **even from a very dark image** and reads it aloud in Arabic, then translates it into **French** and autoplays the translated audio. ✅  
+   - **Street Sign (English text)** – Successfully recognizes and extracts text from a **street sign**, then translates it to **Indonesian** and autoplays the translated audio. ✅  
+   - **Newspaper Page (English structured layout text)** – Successfully recognizes both **left and right columns** and extracts text in the correct reading order. ✅
 
 4️⃣ **Seamless Speech & Translation Features**  
    - **Auto-reads** both the original and translated text, so users don’t have to press play.  
@@ -133,17 +133,16 @@ For installation instructions, refer to the **[Installation Guide](https://githu
    - Users can **download the translated speech** as an audio file for offline use.
 
 5️⃣ **Conclusion**  
-  ✅ The **OCR performs accurately** across different image conditions (book pages, handwriting, low-light images, street signs, and newspaper layouts).  
-  ✅ **Text extraction maintains proper punctuation, uppercase/lowercase, and formatting.**  
-  ✅ **Speech playback is automatic**, making it highly accessible for visually impaired users.  
-  ✅ **Processing time increases with more complex images** (e.g., newspaper pages), but the app still extracts text correctly.  
-
----
+   - The **OCR performs accurately** across different image conditions (book pages, handwriting, low-light images, street signs, and newspaper layouts).  
+   - **Text extraction maintains proper punctuation, uppercase/lowercase, and formatting.**  
+   - **Speech playback is automatic**, making it highly accessible for visually impaired users.  
+   - **Processing time increases with more complex images** (e.g., newspaper pages), but the app still extracts text correctly.  
 
 ### 🏆 **Why Should You Try This App?**  
-✨ **See for yourself** how well the app extracts text from different types of images and handle the speech conversion!  
-✨ **Experience automatic speech playback** that makes content accessible to everyone.  
-✨ **Test its powerful OCR & translation capabilities** on your own images and see how it adapts across languages.  
+
+   ✨ **See for yourself** how well the app extracts text from different types of images and handle the speech conversion!  
+   ✨ **Experience automatic speech playback** that makes content accessible to everyone.  
+   ✨ **Test its powerful OCR & translation capabilities** on your own images and see how it adapts across languages.  
 
 💡 **Ready to try it?** Upload your own images and let I.HEAR.YOU do the work! 🚀  
 
