@@ -42,6 +42,7 @@ Whether you need to **read a foreign sign, assist someone with a visual impairme
 ---
 
 ## 🌟 Features  
+
 ✔️ **Upload an image** (JPG, JPEG, PNG) and extract text using OCR  
 ✔️ **Convert extracted text to speech** in the detected language  
 ✔️ **Translate the extracted text** into multiple languages  
@@ -141,15 +142,14 @@ _(Exact supported languages depend on the OCR and TTS configurations in the syst
 
 ## 📖 Additional Documentation  
 
-For more details about:  
-✅ **How the application works**  
-✅ **Definitions of OCR, Speech Synthesis, NLP, and DSP**  
-✅ **Technical implementation**  
+Learn more about:  
+✅ **Application workflow** from image input to speech output  
+✅ **Core technologies**: OCR, Speech Synthesis, NLP, and DSP  
+✅ **System architecture and implementation**   
 
-Refer to the **[Project Summary](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter)** and **[Slides](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter)** provided in the repository.  
+Refer to the **[Project Summary](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter)** and **[Slides](https://github.com/ninismr/FlaskWebApp_ImageToSpeechConverter)** available in the repository.  
 
 ---
-
 
 
 
